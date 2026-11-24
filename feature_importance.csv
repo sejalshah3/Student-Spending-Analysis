@@ -1,0 +1,15 @@
+Feature,Importance
+gender_Male,0.007356756587551772
+age,0.00423494560754647
+major_Psychology,0.0035156320484271975
+major_Computer Science,0.0028415860919216883
+preferred_payment_method_Credit/Debit Card,0.002438134949951176
+year_in_school_Sophomore,0.002148582970939361
+year_in_school_Senior,0.0019408505623769833
+financial_aid,0.0006888582880058447
+major_Economics,0.00044027306479694773
+monthly_income,-0.0002523344776772074
+year_in_school_Junior,-0.0006848721861006047
+major_Engineering,-0.005971398155916918
+gender_Non-binary,-0.00841441310871931
+preferred_payment_method_Mobile Payment App,-0.01404544481962674
